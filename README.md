@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0347-top-k-frequent-elements) |
@@ -75,5 +76,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0443-string-compression) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

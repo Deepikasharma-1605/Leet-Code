@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0347-top-k-frequent-elements) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 ## Heap (Priority Queue)
@@ -106,5 +108,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

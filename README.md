@@ -127,4 +127,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

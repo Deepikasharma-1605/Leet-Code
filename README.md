@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 ## Tree

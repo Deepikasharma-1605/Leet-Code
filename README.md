@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [1382-balance-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -206,4 +210,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->

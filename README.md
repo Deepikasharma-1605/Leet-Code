@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0496-next-greater-element-i) |
+| [0897-increasing-order-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0897-increasing-order-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0897-increasing-order-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0897-increasing-order-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0897-increasing-order-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0897-increasing-order-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |

@@ -30,7 +30,5 @@ public:
             nodes[i]->left = NULL;
             nodes[i]->right = nodes[i+1];
         }
-        nodes.back()->left = NULL;
-        nodes.back()->right = NULL;
     }
 };

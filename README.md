@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0049-group-anagrams) |
+| [0389-find-the-difference](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0567-permutation-in-string) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
+| [0389-find-the-difference](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0389-find-the-difference) |
 ## Binary Search Tree
 |  |
 | ------- |

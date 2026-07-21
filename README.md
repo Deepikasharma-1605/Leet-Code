@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0567-permutation-in-string) |
 ## Math
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

@@ -14,12 +14,12 @@ public:
         sort(ans.begin() , ans.end());
         double median = 0.0;
         int n = ans.size();
-        for(int i = 0 ; i < ans.size() ; i++){
-            if(ans.size() % 2 != 0){
+        for(int i = 0 ; i < n ; i++){
+            if(n % 2 != 0){
                 median = ans[n/2];
 
             }else{
-                median =(ans[n/2 -1]+ ans[n/2])/2.0;
+                median = (ans[(n-1)/2] + ans[n/2])/2.0;
             }
         }
         return median;

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0056-merge-intervals) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0392-is-subsequence) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |

@@ -10,16 +10,7 @@ public:
         int x = dividend;
         int y = divisor;
         double ans = 0;
-        int sign = 1;
-        if(x < 0 && y > 0){
-            sign = -1;
-        }else if(x > 0 && y < 0){
-            sign = -1;
-        }else if(x < 0 && y < 0){
-            sign = 1;
-        }else{
-            sign = 1;
-        }
+        
         ans = x / y;
         return ans;
     }

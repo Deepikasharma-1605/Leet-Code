@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0189-rotate-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0389-find-the-difference) |

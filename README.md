@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0141-linked-list-cycle) |

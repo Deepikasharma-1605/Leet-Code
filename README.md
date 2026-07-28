@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0054-spiral-matrix) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0046-permutations) |
 ## String Matching
 |  |
 | ------- |

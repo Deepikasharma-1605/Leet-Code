@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0058-length-of-last-word) |
+| [0091-decode-ways](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0392-is-subsequence) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0091-decode-ways](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0091-decode-ways) |
 | [0392-is-subsequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |

@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0046-permutations) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0046-permutations) |
 ## String Matching
 |  |

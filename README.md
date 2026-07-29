@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0049-group-anagrams) |
@@ -289,12 +290,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0045-jump-game-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0091-decode-ways) |
 | [0392-is-subsequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0392-is-subsequence) |
 ## Backtracking

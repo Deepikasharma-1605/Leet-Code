@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0045-jump-game-ii) |
+| [0605-can-place-flowers](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming

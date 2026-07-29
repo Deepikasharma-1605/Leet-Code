@@ -4,12 +4,10 @@ public:
         vector<int> ans;
         int val;
         for(int i = 0 ; i < nums1.size() ; i++){
-            val = nums1[i];
-            ans.push_back(val);
+            ans.push_back(nums1[i]);
         }
         for(int i = 0 ; i < nums2.size() ; i++){
-            val = nums2[i];
-            ans.push_back(val);
+            ans.push_back(nums2[i]);
         }
         sort(ans.begin() , ans.end());
         double median = 0.0;

@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0189-rotate-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0206-reverse-linked-list) |
 ## Monotonic Stack
 |  |

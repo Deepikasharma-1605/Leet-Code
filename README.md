@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0904-fruit-into-baskets) |
+| [1710-maximum-units-on-a-truck](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0389-find-the-difference) |
+| [1710-maximum-units-on-a-truck](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
+| [1710-maximum-units-on-a-truck](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
 | ------- |

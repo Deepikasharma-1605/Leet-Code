@@ -1,10 +1,8 @@
 class Solution {
 public:
     void solve(vector<int> &nums , int k , int n , vector<int> &ans , vector<vector<int>> &answer , int index ){
-        if(n == 0){
-            if(ans.size() == k){
-                answer.push_back(ans);
-            }
+        if(n == 0 && ans.size() == k){
+            answer.push_back(ans);
             return;
         }
         if(n < 0){

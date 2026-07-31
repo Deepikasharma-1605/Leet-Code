@@ -5,9 +5,6 @@ public:
             answer.push_back(ans);
             return;
         }
-        if(n < 0){
-            return;
-        }
         for(int i = index ; i < nums.size() ; i++){
             ans.push_back(nums[i]);
             solve(nums , k , n - nums[i], ans , answer , i + 1);

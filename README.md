@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |

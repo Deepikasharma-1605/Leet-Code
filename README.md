@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0860-lemonade-change) |
+| [0896-monotonic-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [1710-maximum-units-on-a-truck](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table

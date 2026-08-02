@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Stack
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0897-increasing-order-search-tree) |
 ## Array
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
 | ------- |
@@ -363,4 +366,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->

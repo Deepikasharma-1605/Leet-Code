@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1544-make-the-string-great](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1544-make-the-string-great) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Stack
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0897-increasing-order-search-tree) |
+| [1544-make-the-string-great](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1544-make-the-string-great) |
 ## Array
 |  |
 | ------- |

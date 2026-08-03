@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0189-rotate-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->

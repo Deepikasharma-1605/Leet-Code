@@ -2,9 +2,8 @@ class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
         sort(nums.begin() , nums.end());
-        int n = nums.size();
         int ans = 1;
-        for(int i = 0 ; i < n ; i++){
+        for(int i = 0 ; i < nums.size() ; i++){
             if(nums[i] < ans){
                 continue;
             }

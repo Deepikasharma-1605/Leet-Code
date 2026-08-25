@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [1710-maximum-units-on-a-truck](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1710-maximum-units-on-a-truck) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0877-stone-game) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Linked List
 |  |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -383,4 +386,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0844-backspace-string-compare) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

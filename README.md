@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0045-jump-game-ii) |
 | [0091-decode-ways](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0877-stone-game) |

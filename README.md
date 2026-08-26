@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0443-string-compression) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0389-find-the-difference) |
 ## Binary Search Tree
 |  |
@@ -411,4 +415,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0877-stone-game) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

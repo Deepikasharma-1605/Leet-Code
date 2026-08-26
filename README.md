@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [1710-maximum-units-on-a-truck](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1710-maximum-units-on-a-truck) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0844-backspace-string-compare) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0844-backspace-string-compare) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Minimax
 |  |
 | ------- |

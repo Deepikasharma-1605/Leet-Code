@@ -432,5 +432,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

@@ -11,23 +11,22 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        if(head == NULL){
-            return NULL;
-        }
-        if(k == 0) return head;
-        vector<int> ans;
+        vector<int> arr;
         for(ListNode*curr = head ; curr != NULL ; curr = curr->next){
-            ans.push_back(curr->val);
+            arr.push_back(curr->val);
         }
-        int n = ans.size();
-        vector<int> arr(n);
-        for(int i = n-1 ; i >= 0 ; i--){
-            arr[(i + k) % n] = ans[i];
-        }
-        ListNode*dummy = new ListNode();
-        ListNode*tail = dummy;
+        int n = arr.size();
+        vector<int> ans(n);
         for(int i = 0 ; i < arr.size() ; i++){
-            tail->next = new ListNode(arr[i]);
+            ans[(i + k) % n] = arr[i];
+        }
+        for(int i = 0 ; i < n ; i++){
+            cout << ans[i];
+        }
+        ListNode*dummy = new ListNode(0);
+        ListNode*tail = dummy;
+        for(int x : ans){
+            tail->next = new ListNode(x);
             tail = tail->next;
         }
         return dummy->next;

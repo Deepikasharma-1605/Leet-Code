@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0844-backspace-string-compare) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0045-jump-game-ii) |
+| [0455-assign-cookies](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
@@ -454,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0229-majority-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

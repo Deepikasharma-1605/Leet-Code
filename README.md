@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0057-insert-interval) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0190-reverse-bits) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0152-maximum-product-subarray) |

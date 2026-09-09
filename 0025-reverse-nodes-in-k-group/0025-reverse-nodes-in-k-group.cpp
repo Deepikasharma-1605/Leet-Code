@@ -12,16 +12,16 @@ class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
         vector<int> arr;
-        for(ListNode*curr = head ; curr!=NULL ; curr = curr->next){
+        for(ListNode*curr = head ; curr!= NULL ; curr = curr->next){
             arr.push_back(curr->val);
         }
-        for(int i = 0 ; i + k <= arr.size() ; i+=k){
+        for(int i = 0 ; i +k <= arr.size(); i +=k){
             reverse(arr.begin() + i , arr.begin() + i + k);
         }
-        ListNode*dummy = new ListNode();
+        ListNode*dummy = new ListNode(0);
         ListNode*tail = dummy;
-        for(int i = 0 ; i < arr.size() ; i++){
-            tail->next = new ListNode(arr[i]);
+        for(int x : arr){
+            tail->next = new ListNode(x);
             tail = tail->next;
         }
         return dummy->next;

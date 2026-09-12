@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0904-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0994-rotting-oranges) |
 | [1710-maximum-units-on-a-truck](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1710-maximum-units-on-a-truck) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0994-rotting-oranges](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |

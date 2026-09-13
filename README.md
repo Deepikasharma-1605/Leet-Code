@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0217-contains-duplicate) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0200-number-of-islands) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0226-invert-binary-tree) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0226-invert-binary-tree) |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0994-rotting-oranges) |
 ## Simulation

@@ -23,7 +23,7 @@ public:
         ListNode*tail = dummy;
         for(int x : arr){
             tail->next = new ListNode(x);
-            tail = tail ->next;
+            tail = tail->next;
         }
         return dummy->next;
     }

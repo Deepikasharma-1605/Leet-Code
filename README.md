@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0547-number-of-provinces) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0733-flood-fill) |
 | [0897-increasing-order-search-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0938-range-sum-of-bst) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |

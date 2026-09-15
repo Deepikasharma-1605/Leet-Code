@@ -20,9 +20,6 @@ public:
         for(int i = 0 ; i < arr.size() ; i++){
             ans[(i + k) % n] = arr[i];
         }
-        for(int i = 0 ; i < n ; i++){
-            cout << ans[i];
-        }
         ListNode*dummy = new ListNode(0);
         ListNode*tail = dummy;
         for(int x : ans){

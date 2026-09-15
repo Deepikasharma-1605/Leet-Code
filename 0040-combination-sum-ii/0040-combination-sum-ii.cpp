@@ -1,28 +1,29 @@
 class Solution {
 public:
-    void solve(vector<int> &candidates , int target ,vector<int> &num , vector<vector<int>> &nums , int index){
+    void solve(vector<int> &candidates , int target , vector<vector<int>> &answer , vector<int> &ans , int index){
         if(target == 0){
-            nums.push_back(num);
+            answer.push_back(ans);
             return;
         }
-        for(int i = index ; i < candidates.size() ; i++){
-            if(i > index && candidates[i] == candidates[i-1]){
+        for(int i = index ; i < candidates.size(); i++){
+            if(i > index && candidates[i] == candidates[i - 1]){
                 continue;
             }
-            if(candidates[i] > target){
-                return;
+            if(target < 0){
+                return ;
             }
-            num.push_back(candidates[i]);
-            solve(candidates , target - candidates[i] , num , nums , i +1);
-            num.pop_back();
+            ans.push_back(candidates[i]);
+            solve(candidates , target - candidates[i] , answer , ans , i + 1);
+            ans.pop_back();
         }
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         sort(candidates.begin() , candidates.end());
-        vector<int> num;
-        vector<vector<int>> nums;
-        solve(candidates , target , num , nums , 0);
-        return nums;
-        
+        vector<int> ans;
+        vector<vector<int>> answer;
+        solve(candidates , target , answer , ans , 0);
+        sort(answer.begin() , answer.end());
+        answer.erase(unique(answer.begin() , answer.end()) , answer.end());
+        return answer;
     }
 };

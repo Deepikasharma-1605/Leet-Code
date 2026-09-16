@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0392-is-subsequence) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0496-next-greater-element-i) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Deepikasharma-1605/Leet-Code/tree/master/0455-assign-cookies) |

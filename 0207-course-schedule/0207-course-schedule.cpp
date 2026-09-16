@@ -1,11 +1,11 @@
 class Solution {
 public:
-    bool dfs(int node , vector<vector<int>> &adj , vector<bool> &visited , vector<bool> &result){
+    bool dfs(vector<bool> &result , vector<bool> &visited , vector<vector<int>> &adj , int node){
         visited[node] = true;
         result[node] = true;
         for(int neighbour : adj[node]){
             if(!visited[neighbour]){
-                if(dfs(neighbour , adj , visited , result)){
+                if(dfs(result , visited , adj , neighbour)){
                     return true;
                 }
             }else if(result[neighbour]){
@@ -16,23 +16,23 @@ public:
         return false;
     }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<bool> visited(numCourses , false);
-        vector<bool> result(numCourses , false);
-        vector<vector<int>> adj(numCourses);
+        int n = numCourses;
+        vector<vector<int>> adj(n);
         for(auto p : prerequisites){
             int x = p[0];
             int y = p[1];
             adj[y].push_back(x);
         }
-        bool found = true;
-        for(int i = 0 ; i < numCourses ; i++){
+        vector<bool> visited(n , false);
+        vector<bool> result(n , false);
+        for(int i = 0 ; i < n ; i++){
             if(!visited[i]){
-                if(dfs(i , adj , visited , result)){
-                    found = false;
+                if(dfs(result , visited , adj , i)){
+                    return false;
                     break;
                 }
             }
         }
-        return found;
+        return true;
     }
 };

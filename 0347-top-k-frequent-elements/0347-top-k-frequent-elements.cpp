@@ -5,19 +5,22 @@ public:
         for(int x : nums){
             mp[x]++;
         }
-        vector<vector<int>> ans;
-        for(auto it : mp){
-            ans.push_back({it.first , it.second});
+        vector<vector<int>> pairs;
+        for(auto it: mp){
+            pairs.push_back({it.second , it.first});
         }
-        sort(ans.begin(), ans.end(), [](vector<int> &a, vector<int> &b){
-            return a[1] < b[1];
-        });
+        sort(pairs.begin() , pairs.end());
+        reverse(pairs.begin() , pairs.end());
         vector<int> answer;
-        int n = ans.size();
-        for(int i = n - 1; i >= n - k ; i--){
-            answer.push_back(ans[i][0]);
+        for(int i = 0 ; i < pairs.size() ; i++){
+            for(int j = 0 ; j < pairs[i].size() ; j++){
+                cout << pairs[i][j];
+            }
+            cout << endl;
+        }
+        for(int i = 0 ; i < k ; i++){
+            answer.push_back(pairs[i][1]);
         }
         return answer;
-        
     }
 };

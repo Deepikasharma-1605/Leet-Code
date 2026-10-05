@@ -12,6 +12,5 @@ public:
             answer.push_back(it.second);
         }
         return answer;
-        
     }
 };
